@@ -1,0 +1,28 @@
+body{
+    font-family: Calibri,sans-serif;
+    background-color: White; 
+  }
+  div{
+    background-color: Lightblue; 
+    padding: 10px; 
+    border-radius: 10px;
+    margin: 10px;
+  }
+  table{ 
+    width: 100%; 
+    text-align: center; 
+  }
+  th{
+    background-color: Black;
+    color: white;
+  }
+  img{
+    border-radius: 75%;
+    box-shadow: 0 0 10px black;
+  }
+  .progress-container{
+  font-weight: bold;
+  }
+  .contact-info{
+  text-align: start;
+  }
